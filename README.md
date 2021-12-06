@@ -12,3 +12,5 @@ Hi, my name is Wesley, I'm a computer science student and beginner programmer.
 # How to reach me:
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/aaquinowesley/) 
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@aaquinowesley)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/wesleyaquino/)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aaquinowesley)](https://github.com/anuraghazra/github-readme-stats)
